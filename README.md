@@ -1,11 +1,20 @@
 # Data Science Portfolio:
 
-#### Technical Skills: Python, C+, Excel
-#### Soft Skills: Project Management, Leadership & Mentoring, Communication 
+## Profile:
+
+I am a senior finance major at the University of Notre Dame. I plan to work at Bank of America's investment banking arm as an analyst after graduation but am currently working on improving my coding skills. You can reach me at:
+- **Email**:  agouldin@nd.edu
+- **LinkedIn**:  https://www.linkedin.com/in/ashley-goulding-928ab51b3/ 
+
+## Skills:
+ - **Technical Skills**: Python, C+, Excel
+ - **Soft Skills**: Project Management, Leadership & Mentoring, Communication 
 
 ## Education:
-- **University of Notre Dame** | Major: Finance | Minor: Data Science | (_May 2025_)
+- **University of Notre Dame** | Major: Finance | Minor: Data Science | _May 2025_
     - Honors: Dean's List, Business Honors Program, AIM LIX
+- **Cardinal Gibbons High School** | _May 2021_
+    - Graduated #9 in graduating class
               
 ## Projects:
 
@@ -13,65 +22,23 @@ Beyond demonstrating a technical understanding of each technique, a key goal of 
 
 A summary of all projects can be seen below:
 
--    Stock Portfolio Analysis using Graph-Based Clustering - 172% returns vs SNP500. 
--    Emotion Detection using Convolutional Neural Networks - 87% classification accuracy.
--    Custom Geographical Data Visualisation for Agricultural Farms - real-world implementation.
-
+-    Data Science Portfolio
+-    xxx
+-    xxx
 
 ----------------------------------------------------------------------
-### Stock Portfolio Selection Tool - Graph Based Clustering.
+### Data Science Portfolio
 
-![Stock_Returns](assets/img/Stock_Returns_1.png)
-
-   - Graph-based clustering based on daily stock returns is used to create an optimal stock portfolio selection tool.
-   - Hyperparameter tuning dramatically improved model performance from marginal gains over the market to consistently outperforming the market. 
-   - 172% better returns than SNP500 over the last 6 years.
-   - 1.5x increase in risk - small vs other models.
-
-[Full Project Documentation](https://drive.google.com/drive/folders/1rNQJKXx-CP3n1kz5Eh-thac_RIUyggRo?usp=sharing)
+   - Statistical Analysis 
 
 ----------------------------------------------------------------------
 
-### Facial Emotiion Detection - Convolutional Neural Networks
-
-![CNN Solution](assets/img/CNN_Solution_2.png)
-
-   - Used Convolutional Neural Networks to classify human emotions based on images of faces.
-   - 87% Classification accuracy with 97% accuracy on surprised faces, and 93% accuracy on happy faces.
-   - Custom model outperforming established transfer learning models such as RESNET in both classification accuracy and compute efficiency. 
-   - Received full marks as my final assesment in my M.I.T course. 
-
-**Feedback from assessor:**
-"Congratulations on a well-structured and insightful analysis! Your exploration of various neural
-network models, emphasis on market trends, and strategic recommendations showcase a robust
-understanding of the subject. The incorporation of real-world considerations and future
-improvements reflects a forward-thinking approach. Well done! Congratulations on a well-structured and insightful analysis! Your exploration of various neural network models, emphasis on market trends, and strategic recommendations showcase a robust
-understanding of the subject. The incorporation of real-world considerations and future
-improvements reflects a forward-thinking approach. Well done!"
-
-[Full Project Documentation](https://drive.google.com/drive/folders/1uh3j2XITl3BE34-Xk1M_EidFhqzd2Fsw?usp=sharing)
-
-----------------------------------------------------------------------
-
-### Custom Visualisation Tool for Agricultural Farms - Dynamic Charting
-
-![Maps 2](assets/img/Maps_2.png)
-
-   - Takes coordinate data to create custom maps in plotly that can then be used for visualising geographic data.
-   - Interactive tool that can be saved and exported for use by less technically confident employees.
-   - Real-world implementation in agriculture for visualising field-level data on farms. 
-   - Replicable code template that can be easily repurposed for other farms.
-
-[Full Project Documentation](https://drive.google.com/drive/folders/1UTPE3cgrmZYZcGt21sS9MjdulsPND-Jf?usp=sharing)
-
-
-----------------------------------------------------------------------
 
 ## Work:
 
-**Kantar - Research Manager:**
+**Bank of America- M&A Investment Banking Analyst:**
 
-In my current role, I often work with data and have implemented my technical skills and knowledge where relevant to save time or build new, scalable products for clients. 
-   - Designed, sold, and scaled an analysis tool to solve real client questions on understanding drivers of consumer value perceptions with global implementation and incremental revenue gains.
-   - Creating and using code templates to speed up workflows and increase interpretability of the data in complex client work allowing the team to answer more complex client questions and build better client relationships. 
-   - Build and use code templates to create efficiency in recurring project tasks, reducing the time spent from 1 day per week to 30 minutes.
+In my current role, I will work heavily with Excel and will advise clients on high-level financial transactions, including mergers, acquisitions, and other corporate restructurings. 
+   - Building and maintaining financial valuation models
+   - Preparing pitchbooks and presentations
+   - Conducting market research and industry analysis
