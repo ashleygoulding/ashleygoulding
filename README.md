@@ -1,6 +1,6 @@
 # Data Science Portfolio:
 
-#### Technical Skills: Python, C+
+#### Technical Skills: Python, C+, Excel
 #### Soft Skills: Project Management, Leadership & Mentoring, Communication 
 
 ## Education:
