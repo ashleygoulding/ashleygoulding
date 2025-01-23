@@ -4,7 +4,7 @@
 #### Soft Skills: Project Management, Leadership & Mentoring, Communication 
 
 ## Education:
-- **University of Notre Dame** | Major: Finance | Minor: Data Science | (_2025_)
+- **University of Notre Dame** | Major: Finance | Minor: Data Science | (_May 2025_)
     - Honors: Dean's List, Business Honors Program, AIM LIX
               
 ## Projects:
