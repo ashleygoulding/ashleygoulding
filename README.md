@@ -16,9 +16,13 @@ I am a senior finance major at the University of Notre Dame. I plan to work at B
 - **Cardinal Gibbons High School** | _May 2021_
     - Graduated #9 in graduating class
               
-## Projects:
+## Semester Goals:
 
-Beyond demonstrating a technical understanding of each technique, a key goal of each of these projects was to solve real work problems. Each project will contain a link to the file with the full analysis, and where relevant, replicable code templates.
+As I am a beginner in many coding languages, my goals for the semester include building a strong foundation in data manipulation, visualization, and basic modeling and eventually creating more complex programs to display on this profile. 
+
+## Current Projects:
+
+Beyond demonstrating a technical understanding of each technique, each project's key goal was to solve real work problems. Each project will contain a link to the file with the full analysis and, where relevant, replicable code templates.
 
 A summary of all projects can be seen below:
 
