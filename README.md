@@ -1,48 +1,56 @@
-# Data Science Portfolio:
+# 👋 Hi, I'm Ashley Goulding
 
-## Profile:
+🎓 **Senior Finance Major | Data Science Minor**  
+📍 University of Notre Dame | Class of 2025  
+💼 Incoming M&A Investment Banking Analyst @ Bank of America  
+📊 Passionate about blending finance and data science to solve real-world problems
 
-I am a senior finance major at the University of Notre Dame. I plan to work at Bank of America's investment banking arm as an analyst after graduation but am currently working on improving my coding skills. You can reach me at:
-- **Email**:  agouldin@nd.edu
-- **LinkedIn**:  https://www.linkedin.com/in/ashley-goulding-928ab51b3/ 
+---
 
-## Skills:
- - **Technical Skills**: Python, C+, Excel
- - **Soft Skills**: Project Management, Leadership & Mentoring, Communication 
+## 💡 About Me
 
-## Education:
-- **University of Notre Dame** | Major: Finance | Minor: Data Science | _May 2025_
-    - Honors: Dean's List, Business Honors Program, AIM LIX
-- **Cardinal Gibbons High School** | _May 2021_
-    - Graduated #9 in graduating class
-              
-## Semester Goals:
+I'm a data-driven finance student focused on learning how to extract insights from complex data. While I’m preparing for a full-time role in M&A investment banking, I’m building technical proficiency in Python, data analysis, and machine learning. My goal is to use these skills to drive smarter decision-making in high-stakes environments.
 
-As I am a beginner in many coding languages, my goals for the semester include building a strong foundation in data manipulation, visualization, and basic modeling and eventually creating more complex programs to display on this profile. 
+- 📈 Currently learning: Data visualization, machine learning, Streamlit apps  
+- 🧠 Always interested in: Finance + AI, automation tools, predictive modeling  
+- 🤝 Open to collaboration on data science projects that tie into real-world business challenges
 
-## Current Projects:
+---
 
-Beyond demonstrating a technical understanding of each technique, each project's key goal was to solve real work problems. Each project will contain a link to the file with the full analysis and, where relevant, replicable code templates.
+## 🛠️ Technical Skills
 
-A summary of all projects can be seen below:
+**Languages**: Python, C+, SQL (basic), Excel (Advanced)  
+**Libraries & Tools**: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit, Jupyter  
+**Other**: Financial Modeling, Project Management, Communication, Mentoring
 
--    Data Science Portfolio
--    xxx
--    xxx
+---
 
-----------------------------------------------------------------------
-### Data Science Portfolio
+## 📁 Featured Projects
 
-   - Statistical Analysis 
+| Project | Description | Demo |
+|--------|-------------|------|
+| [Unsupervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/UnsupervisedML) | Interactive app for clustering (K-Means, Hierarchical) and PCA with real-time plots | [Live App](https://goulding-data-science-portfolio-6ljc4fdj5tutg2pvmvruqg.streamlit.app/) |
+| [Supervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate ML models with custom hyperparameters | [Live App](https://your-app-link.com) |
+| [Mutant Moneyball Analysis](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/TidyData-Project) | Cleaned and reshaped a messy dataset to visualize player value trends | – |
+| [Penguin Filter Hub](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/basic-streamlit-app) | Streamlit app to filter and explore penguin traits by species, island, and more | [Live App](https://your-penguin-app-link.com) |
 
-----------------------------------------------------------------------
+➡️ _See more in the [Goulding-Data-Science-Portfolio](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio) repository_
 
+---
 
-## Work:
+## 📬 Contact Me
 
-**Bank of America- M&A Investment Banking Analyst:**
+- 📧 **Email**: agouldin@nd.edu  
+- 💼 **LinkedIn**: [ashley-goulding](https://www.linkedin.com/in/ashley-goulding-928ab51b3/)  
+- 🗂️ **Resume**: Available upon request
 
-In my current role, I will work heavily with Excel and will advise clients on high-level financial transactions, including mergers, acquisitions, and other corporate restructurings. 
-   - Building and maintaining financial valuation models
-   - Preparing pitchbooks and presentations
-   - Conducting market research and industry analysis
+---
+
+## 🎯 2025 Career Goals
+
+- Bridge data science and finance in high-impact projects  
+- Automate financial workflows using Python  
+- Contribute to open-source or internal tooling projects in banking/analytics  
+- Continue to build and deploy ML apps for intuitive data exploration
+
+---
