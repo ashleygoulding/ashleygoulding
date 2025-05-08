@@ -17,6 +17,15 @@ I'm a data-driven finance student focused on learning how to extract insights fr
 
 ---
 
+## 🎯 2025 Career Goals
+
+- Bridge data science and finance in high-impact projects  
+- Automate financial workflows using Python  
+- Contribute to open-source or internal tooling projects in banking/analytics  
+- Continue to build and deploy ML apps for intuitive data exploration
+
+---
+
 ## 🛠️ Technical Skills
 
 **Languages**: Python, C+, SQL (basic), Excel (Advanced)  
@@ -29,10 +38,10 @@ I'm a data-driven finance student focused on learning how to extract insights fr
 
 | Project | Description | Demo |
 |--------|-------------|------|
-| [Unsupervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/UnsupervisedML) | Interactive app for clustering (K-Means, Hierarchical) and PCA with real-time plots | [Live App](https://goulding-data-science-portfolio-6ljc4fdj5tutg2pvmvruqg.streamlit.app/) |
-| [Supervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate ML models with custom hyperparameters | [Live App](https://your-app-link.com) |
-| [Mutant Moneyball Analysis](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/TidyData-Project) | Cleaned and reshaped a messy dataset to visualize player value trends | – |
-| [Penguin Filter Hub](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/basic-streamlit-app) | Streamlit app to filter and explore penguin traits by species, island, and more | [Live App](https://your-penguin-app-link.com) |
+| [Penguin Filter Hub](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/basic-streamlit-app) | Streamlit app to filter and explore penguin traits by species, island, and more | [Live App](http://localhost:8501/) |
+| [Mutant Moneyball Analysis](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/TidyData-Project) | Cleaned and reshaped a messy dataset to visualize player value trends | - |
+| [Supervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate ML models with custom hyperparameters | [Live App](http://localhost:8501/) |
+| [Unsupervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Streamlit app to filter and explore penguin traits by species, island, and more | [Live App](http://localhost:8501/) |
 
 ➡️ _See more in the [Goulding-Data-Science-Portfolio](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio) repository_
 
@@ -43,14 +52,5 @@ I'm a data-driven finance student focused on learning how to extract insights fr
 - 📧 **Email**: agouldin@nd.edu  
 - 💼 **LinkedIn**: [ashley-goulding](https://www.linkedin.com/in/ashley-goulding-928ab51b3/)  
 - 🗂️ **Resume**: Available upon request
-
----
-
-## 🎯 2025 Career Goals
-
-- Bridge data science and finance in high-impact projects  
-- Automate financial workflows using Python  
-- Contribute to open-source or internal tooling projects in banking/analytics  
-- Continue to build and deploy ML apps for intuitive data exploration
 
 ---
