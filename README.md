@@ -41,7 +41,7 @@ I'm a data-driven finance student focused on learning how to extract insights fr
 | [Penguin Filter Hub](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/basic-streamlit-app) | Streamlit app to filter and explore penguin traits by species, island, and more | [Live App](http://localhost:8501/) |
 | [Mutant Moneyball Analysis](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/TidyData-Project) | Cleaned and reshaped a messy dataset to visualize player value trends | - |
 | [Supervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLStreamlitApp) | Train and evaluate ML models with custom hyperparameters | [Live App](http://localhost:8501/) |
-| [Unsupervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Streamlit app to filter and explore penguin traits by species, island, and more | [Live App](http://localhost:8501/) |
+| [Unsupervised ML Explorer](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) | Interactive app for clustering (K-Means, Hierarchical) and PCA with real-time plots | [Live App](http://localhost:8501/) |
 
 ➡️ _See more in the [Goulding-Data-Science-Portfolio](https://github.com/ashleygoulding/Goulding-Data-Science-Portfolio) repository_
 
